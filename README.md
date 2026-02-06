@@ -15,3 +15,6 @@ This project is created using Microsoft Excel.
 
 ## Project File
 See: sales report 1.xlsx
+## Dashboard Preview
+
+![Sales Dashboard](sales_pie_chart.png)
