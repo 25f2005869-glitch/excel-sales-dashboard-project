@@ -18,3 +18,5 @@ See: sales report 1.xlsx
 ## Dashboard Preview
 
 ![Sales Dashboard](sales_pie_chart.png)
+
+![Sales Dashboard](dashboard.png)
