@@ -1,15 +1,15 @@
 # 📊 Excel Sales Dashboard Project
 
-This project showcases a **Sales Dashboard built in Microsoft Excel** to analyze sales performance and present key insights using **Pivot Tables, Pivot Charts, and interactive dashboard visuals**.
+This repository contains an **Excel-based Sales Dashboard** built in **Microsoft Excel** to analyze sales performance and present key insights using **Pivot Tables, Pivot Charts, and dashboard visuals**.
 
 ---
 
-## ✅ What’s Included in This Repository
+## ✅ What’s Included
 
-- **Excel file (main project):** `sales report 1.xlsx`
-- **Dashboard screenshots:**
+- **Main Excel workbook:** `sales report 1.xlsx`
+- **Dashboard images / screenshots:**
   - `sales_pie_chart.png`
-  - `dashbord.png` *(note: filename is intentionally kept as it exists in the repo)*
+  - `dashboard.png.png` *(this is the exact filename currently in the repo)*
 
 ---
 
@@ -28,17 +28,16 @@ This project showcases a **Sales Dashboard built in Microsoft Excel** to analyze
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Basic Excel formulas (if used in the workbook)
+- (Optional) Excel formulas inside the workbook
 
 ---
 
-## 📂 Project File
+## 📂 How to Open the Project
 
-Open the Excel workbook:
-
-- `sales report 1.xlsx`
-
-> Tip: Enable editing (if prompted) and use Excel desktop for best experience.
+1. Download / clone this repository.
+2. Open `sales report 1.xlsx` in **Microsoft Excel (desktop recommended)**.
+3. If Excel prompts you, click **Enable Editing**.
+4. Explore the dashboard sheet, pivot tables, charts, and any filters/slicers (if present).
 
 ---
 
@@ -48,26 +47,23 @@ Open the Excel workbook:
 ![Sales Pie Chart](sales_pie_chart.png)
 
 ### Dashboard Screenshot
-![Dashboard Screenshot](dashbord.png)
+![Dashboard Screenshot](dashboard.png.png)
 
 ---
 
-## 🚀 How to Use
+## 👨‍💻 Author
 
-1. Download / clone the repository.
-2. Open `sales report 1.xlsx` in **Microsoft Excel (desktop)**.
-3. Explore:
-   - Pivot tables & charts
-   - Dashboard sheet (if present)
-   - Filters / slicers (if present)
+**Saloni Tiwari**  
+B.Sc. Data Science Student
 
 ---
 
 ## 📌 Notes
 
-- If the dashboard image doesn’t display, confirm the file name matches exactly:
-  - This repo contains **`dashbord.png`** (not `dashboard.png`).
+- Image links are case-sensitive and must match filenames exactly.
+- This repository currently uses the filename **`dashboard.png.png`** (double `.png`).  
+  If you rename it to `dashboard.png`, update the README image link accordingly.
 
 ---
 
-⭐ If you find this helpful, feel free to star the repository!
+⭐ If you find this project helpful, feel free to star the repository!
